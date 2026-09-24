@@ -14,4 +14,4 @@ lightweight injector for valve games with improved vac bypass, especially for va
 ### Done
 
 ## License
-### This project licensed under the GPL V2.0 license
+### This project licensed under the GPL-3.0 license
