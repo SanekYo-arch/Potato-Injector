@@ -4,12 +4,12 @@ lightweight injector for valve games with improved vac bypass, especially for va
 
 ## How to start
 #### download the latest release tag from releases 
-start the program
-click add
-select your .dll file
-select the process you want to inject file
-select one of injecting methods from settings
-click inject
+1. start the program
+2. click add
+3. select your .dll file
+4. select the process you want to inject file
+5. select one of injecting methods from settings
+6. click inject and just wait
 
 ### Done
 
